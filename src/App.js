@@ -22,7 +22,7 @@ const dummyOptions = [
     name: "Album 4",
     active: false,
     enabled: true
-  },
+  }
 ]
 
 class App extends Component {
